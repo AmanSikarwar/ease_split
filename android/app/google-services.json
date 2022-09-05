@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981587668248",
+    "project_id": "ease-split",
+    "storage_bucket": "ease-split.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981587668248:android:317102b54f4ecc5aa7c26d",
+        "android_client_info": {
+          "package_name": "io.github.amansikarwar.ease_split"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981587668248-i86ep2b5ftmaij8fr7e0dqfcdl546m1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrQNJsPVMZ0WaOyHBpEmf4DA66hV4g9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981587668248-i86ep2b5ftmaij8fr7e0dqfcdl546m1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
